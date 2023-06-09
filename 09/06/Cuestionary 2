@@ -24,16 +24,16 @@
                 <div class="container">
                     <ul class="nav navbar-nav">
                         <li>
-                            <a href="index - copia.html">inicio</a>
+                            <a href="index - copia.html">Inicio</a>
                         </li>
                         <li>
-                            <a href="Menu - copia.html">menu</a>
+                            <a href="Menu - copia.html">Menu</a>
                         </li>
                         <li>
-                            <a href="Pedido - copia.html">pedido</a>
+                            <a href="Pedido - copia.html">Pedido</a>
                         </li>
                         <li>
-                            <a href="Contacto - copia.html">contacto</a>
+                            <a href="Contacto - copia.html">Contacto</a>
                         </li>
                         <li>
                             <a href="apimovies.html">Movies</a>
