@@ -25,6 +25,12 @@
         <li>
             <a href="contacto.html">Contacto</a>
         </li>
+        <li>
+            <a href="apimovies.html">Movies</a>
+        </li>
+        <li class="active">
+            <a href="cuestionario.html">Cuestionario</a>
+         </li>
     </ul>
         </div>
 
