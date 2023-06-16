@@ -1,66 +1,84 @@
 body{
-    background-color: #9F86C0;
+    background-color: white;
 }
 header{
-    background-color: #E0B1CB;
-    padding: 25px;
+    background-color: #8cf0ce;
+    padding: 25PX;
 }
 nav{
-    background-color: #939F5C;
-    padding: 10px;
+    background-color: #27a8db;
+    padding: 10PX;
 }
 section{
-    background-color: #8FB8DE;
+    background-color: #eb6ac0;
 }
 article{
-    background-color: #FF9B71;
+    background-color: #e68429;
 }
 aside{
-    background-color: #594E36;
-    width: 80%;
+    background-color: #7e2877;
+    width: 30%;
     float: right;
 }
-footer{       
-    background-color: rgb(107, 43, 226);
-    color: aliceblue;
-    padding: 30px 0;
+footer{
+    background-color: rgb(235, 176, 29);
 }
-.container{
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 20px;
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 90px;
 }
-.footer-content{
-    display: flex;
-    flex-wrap: wrap;
-}
-.footer-section{
-width: 100%;
-padding: 2px;
-box-sizing: border-box;
-}
-.about{
-text-align: center;
-}
-.about h2{
-    margin-bottom: 20px;
-}
-.about p{
-    font-size: 18px;
-    line-height: 1.5;
-    margin-bottom: 20px;
-}
-.contact-links{
-    display: flex;
-    justify-content: center;
-}
-.contact-links a{
-    display: inline-block;
-    color: bisque;
-    font-size: 24px;
-    margin: 0 10px;
-    transition: all 0.3s ease;
-}
-.contact-links a:hover{
-    transform: translateY(-5px);
-}
+    footer{
+        background-color: pink;
+        color: aliceblue;
+        padding: 30px 0;
+    }
+    .container{
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+    .footer-content{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .footer-section{
+    width: 100%;
+    padding: 2px;
+    box-sizing: border-box;
+    }
+    .about{
+    text-align: center;
+    }
+    .about h2{
+        margin-bottom: 20px;
+    }
+    .about p{
+        font-size: 18px;
+        line-height: 1.5;
+        margin-bottom: 20px;
+    }
+    .contact-links{
+        display: flex;
+        justify-content: center;
+    }
+    .contact-links a{
+        display: inline-block;
+        color: bisque;
+        font-size: 24px;
+        margin: 0 10px;
+        transition: all 0.3s ease;
+    }
+    .contact-links a:hover{
+        transform: translateY(-5px);
+    }
+    table{
+        background-color: pink;
+        width: 700px;
+        position: center;
+    }
+    cc{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bold;
+        color: grey;
+    }
