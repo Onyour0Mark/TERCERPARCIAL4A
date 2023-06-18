@@ -1,0 +1,56 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Hazel</title>
+    </head>
+    <body>
+        <table class="hazel">
+            <tr>
+                <td>
+                    <img src="https://i.pinimg.com/564x/eb/c2/b1/ebc2b1a3b6a05aace04a4b9dda45b0c6.jpg">
+                <td>
+                    <p>Genero: <b>Femenino</b></p>
+                    <p>Raza: <b>Latina-Coreana</b></p>
+                    <p>Cumpleaños: <b> 01/02/06</b></p>
+                    <p>Calle, Cuidad, CP: <b>samgyeompsal 2708, Iksan, Corea</b></p>
+                    <p>Telefono: <b>556-3334-555</b></p>
+                    <p>Celular: <b>666-1112-444</b></p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <b>Hazel Aldana</b>
+                </td>
+            </tr>
+        </table>
+        <hr>
+        <table>
+            <tr>
+                <td>
+                    <i class="fa fa-user" aria-hidden="true" style="color: #931f5f;"></i>
+                    <cc>INFORMACION BASICA</cc><i class="fa fa-question-circle" aria hidden="true" style="color: #E9967A; (159, 157, 157)"></i>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">E-Mail</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Altura</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Peso</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Color de pelo</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Tipo de sangre</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Signo Zodiacal</p>
+                </td>
+                <td>
+                    <p>sammy@gmail.com</p>
+                    <p>1.57cm</p>
+                    <p>54.6kg</p>
+                    <p>Castaño</p>
+                    <p>A+</p>
+                    <p>Capricornio</p>
+                </td>
+            </tr>
+        </table>
+
+        </td>
+    </body>
+</html>
