@@ -1,22 +1,31 @@
-<html>
-    <head>
-        <link rel="stylesheet" href="style.css">
-        <title>Hazel</title>
-    </head>
-    <body>
-        <table class="hazel">
-            <tr>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="perfil.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="
+        sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <title>Perfil</title>
+</head>
+
+<body>
+    <table class="perfil">
+        <tr>
+            <td>
+                <img
+                    src="https://i.pinimg.com/564x/eb/c2/b1/ebc2b1a3b6a05aace04a4b9dda45b0c6.jpg"
+                    style="width: 200; height: 200px; position: relative; overflow: hidden; display: block; margin:0 0 0 0%; -webkit-border-radius:50%; -moz-border-radius:50px; -ms-border-radius:50px; -o-border-radius:50px; border-radius: 50%; border: 5px double grey">
+                </td>
                 <td>
-                    <img src="https://i.pinimg.com/564x/eb/c2/b1/ebc2b1a3b6a05aace04a4b9dda45b0c6.jpg">
-                <td>
-                    <p>Genero: <b>Femenino</b></p>
-                    <p>Raza: <b>Latina-Coreana</b></p>
-                    <p>Cumpleaños: <b> 01/02/06</b></p>
-                    <p>Calle, Cuidad, CP: <b>samgyeompsal 2708, Iksan, Corea</b></p>
-                    <p>Telefono: <b>556-3334-555</b></p>
-                    <p>Celular: <b>666-1112-444</b></p>
+                    <p>Genero: <b>Femenino</b> </p>
+                    <p>Raza: <b>Latina-Coreana</b> </p>
+                    <p>Cumpleaños: <b>01/02/06</b> </p>
+                    <p>Calle, ciudad, CP: <b>Samgyeopsal 2708, Iksan, Corea del Sur</b> </p>
+                    <p>Telefono: <b>556-3334-555</b> </p>
+                    <p>Celular: <b>666-1112-444</b> </p>
                 </td>
             </tr>
+    
             <tr>
                 <td>
                     <b>Hazel Aldana</b>
@@ -27,30 +36,95 @@
         <table>
             <tr>
                 <td>
-                    <i class="fa fa-user" aria-hidden="true" style="color: #931f5f;"></i>
-                    <cc>INFORMACION BASICA</cc><i class="fa fa-question-circle" aria hidden="true" style="color: #E9967A; (159, 157, 157)"></i>
+                    <i class="fa fa-user" aria-hidden="true" style="color: gray;"></i>
+                    <cc> Informacion Basica </cc> <i class="fa fa-question-circle" arial-hidden="true" > </i>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">E-Mail</p>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Altura</p>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Peso</p>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Color de pelo</p>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Tipo de sangre</p>
-                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Signo Zodiacal</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">E-Maill:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Altura:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Peso:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Color de pelo: </p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Tipo de sangre:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Signo zodiacal:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Apellido Materno:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Estado civil:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Educacion:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Hiatorial de enfermedades:</p>
                 </td>
                 <td>
-                    <p>sammy@gmail.com</p>
-                    <p>1.57cm</p>
-                    <p>54.6kg</p>
-                    <p>Castaño</p>
+                    <p>samarajimin13@gmail.com</p>
+                    <p>1.57m</p>
+                    <p>54 kg</p>
+                    <p>castaño</p>
                     <p>A+</p>
                     <p>Capricornio</p>
+                    <p>Becerra</p>
+                    <p>Divorciada</p>
+                    <p>Media Superior</p>
+                    <p>Alergias</p>
                 </td>
             </tr>
         </table>
-
-        </td>
+        <table>
+            <tr>
+                <td>
+                    <i class="fa fa-table" aria-hidden="true" style="color: gray;"></i>
+                    <cc> Datos De Empleo </cc> <i class="fa fa-question-circle" aria-hidden="true"></i>
+                </td>
+            </tr>
+            <td>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Estado de Empleo:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Salario Mensual:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Ocupacion:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Nombre de la Compañia:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Numero de Compañeros:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Industria:</p>
+            </td>
+            <td>
+                    <p>Trabajo de 9 hrs</p>
+                    <p>$65,000 quincenales</p>
+                    <p>CEO de la empresa</p>
+                    <p>BABEL</p>
+                    <p>9,000</p>
+                    <p>Artistas</p>
+            </td>
+        </table>
+        <table>
+            <tr>
+                <td>
+                    <i class="fa fa-table" aria-hidden="true" style="color: gray;"></i>
+                    <cc>Informacion Personal</cc> <i class="fa fa-question-circle" aria-hidden="true"></i>
+                </tr>
+                </td>
+                <td>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Miembros de Famila:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Color Favorito:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Pelicula Favorita:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Musica Favorita:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Libro Favorito:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Deporte Favorito:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Estrella del Cine Favorita:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Cantate Favorito:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Comida Favorita:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Personalidad:</p>
+                    <p style="color: gray; font-family: Verdana, Geneva, Tahoma, sans-serif;">Sitio Web:</p>
+                </td>
+                <td>
+                    <p>5 miembros</p>
+                    <p>Rosa Pasteel</p>
+                    <p>Tinker Bell, Coraline y la puerta secreta</p>
+                    <p>K-pop-Corridos belicones</p>
+                    <p>Bajo la misma Estrella</p>
+                    <p>Voleibol</p>
+                    <p>Los Warren</p>
+                    <p>BeWhy</p>
+                    <p>Papas fritas y Sushi</p>
+                    <p>Introvertida</p>
+                    <p>insta.onyourspiderm_ark</p>
+                </td>
+        </table>
     </body>
-</html>
+    
+    </html>
