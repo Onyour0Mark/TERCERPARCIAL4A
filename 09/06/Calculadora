@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+    <title>Pagina 1</title>
+</head>
+<nav class="navbar navbar-light" style="background-color:burlywood">
+</nav>
+<div class="jumbotron">
+<h1 class="display-4">Calculadora de Fisica 1</h1>
+<p class="lead">Usted a mi no puede decirme nada
+</p>
+<form id="formulario">
+    <label for="distancia">Distancia:</label>
+    <input type="text" id="distancia"
+    name="distancia">
+<select id="distanciaUnidad">
+    <option value="metros">Metros</option>
+    <option value="pies">Pies</option>
+</select>
+<br>
+<label for="tiempo">Tiempo:</label>
+<input type="text" id="tiempo"
+name="tiempo">
+<select id="tiempoUnidad">
+    <option value="segundos">Segundos</option>
+    <option value="horas">Horas</option>
+</select>  </imput>
+</form>
+</div>
